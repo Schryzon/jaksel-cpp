@@ -70,4 +70,5 @@ std::map<std::string, std::string> jakselKeywords = {
     {"lebih dari sama dengan", ">="},
     {"kurang dari sama dengan", "<="},
     {"not sama dengan", "!="},
+    {"letter", "char"}
 };
